@@ -1,0 +1,151 @@
+---
+title: "designing a novel, psychometrically improved, and gamifiable measure of tonal perception"
+subtitle: ""
+author: "-<br>Courtney B. Hilton"
+format: 
+  revealjs:
+    theme: [default, styles.scss]
+    slide-number: true
+    template-partials:
+      - title-slide.html
+title-slide-attributes:
+  data-background-color: "#00467F"
+  data-background-size: contain
+date: 2024-03-07
+date-format: long
+title-logo: "./media/logos/auckland.png"
+---
+
+
+## a novel measure? {.center}
+
+## the traditional approach {.center .incremental}
+
+::: fragment
+<img src="./media/images/probe_example.png" class="center" width="80%"/></img>
+:::
+
+<audio class="media_example hide" controls>
+  <source src="media/audio/probe_exampleT.mp3" type="audio/mp3">
+</audio>
+
+## the traditional approach {.center .incremental}
+
+::: nice
+<img src="./media/images/probe_example.png" class="center" width="80%"/></img>
+:::
+
+<audio class="media_example hide" controls>
+  <source src="media/audio/probe_exampleTT.mp3" type="audio/mp3">
+</audio>
+
+## the traditional approach
+
+::: {.columns}
+::: {.column width="50%"}
+<img src="./media/images/krumhansl_shepard_1979.png" class="center" width="80%"/></img>
+:::
+
+::: {.column width="50%"}
+<img src="./media/images/krumhansl.jpeg" class="center" width="50%"/></img> <img src="./media/images/shepard.jpeg" class="center" width="40%"/></img>
+:::
+:::
+
+## the traditional approach {.center}
+
+
+![](media/figures/probe_tone.png){width="80%"}
+
+## why do we need a new approach? {.center}
+
+## why do we need a new approach?
+
+::: {.columns .incremental}
+::: {.column width="60%" .incremental}
+::: fragment
+construct validity:
+
+- framing of the probe question
+- delivery of example and probe
+- not objective
+:::
+
+::: fragment
+method variance:
+
+- likert scales experience
+- musical experience
+:::
+:::
+
+::: {.column width="40%" .fragment}
+<br>
+<img src="./media/images/likert.webp" class="center"/></img>
+:::
+:::
+
+## broader limitations of studies of tonal perception
+
+::: incremental
+- small samples of people
+- small samples of stimuli
+- WEIRD people/stimuli (and often MIDI)
+:::
+
+
+## we want a measure that:
+
+::: incremental
+- better construct validity
+- more objective
+- reduced methods variance
+- unbiased for different populations
+- scalable (gamifiable)
+:::
+
+## designing our measure {.center}
+
+## reducing proximity effects {.center}
+
+<img src="./media/figures/example.png" class="center" width="80%"/></img>
+
+## using comparisons {.center}
+
+<img src="./media/figures/comparisons.png" class="center" width="80%"/></img>
+
+## using a more objective measure {.center}
+
+<img src="./media/figures/RT.png" class="center" width="80%"/></img>
+
+## gamifying it {.center}
+
+<img src="./media/figures/game1.png" class="center" width="100%"/></img>
+
+## gamifying it {.center}
+
+<img src="./media/figures/game2.png" class="center" width="100%"/></img>
+
+
+## gamifying it {.center}
+
+<img src="./media/figures/game3.png" class="center" width="100%"/></img>
+
+
+## some open questions
+
+::: incremental
+- stimulus sampling
+- cold start problem
+- catchy name/logo?
+- your feedback?
+:::
+
+
+## thanks for your attention {.center}
+
+
+```{=html}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="zoomer.js"></script>
+<script type="text/javascript" src="audio_player.js"></script>
+```
